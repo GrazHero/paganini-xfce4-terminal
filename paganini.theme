@@ -1,0 +1,12 @@
+[Scheme]
+Name=paganimi
+ColorForeground=#f8f8f2
+ColorBackground=#191919
+ColorPalette=#000000;#b22222;#3CB371;#ff8000;#3498DB;#ff00ff;#028090;#6D6D6D;#191919;#cd5c5c;#74C365;#FFD500;#00b7f0;#FF80F4;#40E0D0;#F8F8F2
+ColorCursorUseDefault=FALSE
+ColorCursorForeground=#191919191919
+ColorCursor=#ffff45440000
+ColorSelectionUseDefault=FALSE
+ColorSelection=#dcdcdcdcdcdc
+ColorSelectionBackground=#b2b222222222
+ColorBoldIsBright=TRUE
